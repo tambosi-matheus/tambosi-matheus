@@ -9,7 +9,7 @@ EN
 # 📚 My projects 📕
 
 ## 📗 Games
-### [Gem Ninja](https://github.com/tambosi-matheus) 
+### [Gem Ninja](https://github.com/tambosi-matheus/GemNinja) 
 Is a mobile slash game, focused on getting awesome combos
 
 ### [Dice Heroes](https://github.com/tambosi-matheus/DiceHeroes) 
@@ -17,5 +17,7 @@ Is a connect3 casual game for you chill
 
 ## 📘 Adventure Codes
 Here there are projects that I use to study concepts and further develop my coding skills
-### [Ko-nect](https://github.com/tambosi-matheus)
+### [Ko-nect](https://github.com/tambosi-matheus/Ko-Nect)
 Spherical Network visualizer
+### [Boids](https://github.com/tambosi-matheus/Boids-Simulation)
+A simulation of the flocking behaviour of Birds, using Boids as a base, have 3 different species and change each one behaviour individually
