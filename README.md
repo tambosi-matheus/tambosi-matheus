@@ -1,16 +1,21 @@
 EN
 
-- 👋 Hi, my name is Matheus Tambosi, I'm a Brazilian Game Developer with experience in Unity
+- 👋 Hey there, my name is Matheus Tambosi, I'm a 22 years old Brazilian Game Developer with experience in Unity, C#, Java and Python
+- 🌱 Currently looking for a role as Game Engineer
 - 👀 I’m interested in creating systems and AI
 - 📫 You can contact me on [tambosi.matheus@gmail.com](mailto:tambosi.matheus@gmail.com), feel free to share some feedbacks on my projects!
+- ⚡ Fun fact: I'm a seasonal surfer and skater, and also a Boston Celtic fan 🍀
 
-# My projects
+# 📚 My projects 📕
 
-[Gem Ninja](https://github.com/tambosi-matheus) is a mobile slash game, focused on getting awesome combos
-[Lear more](https://github.com/tambosi-matheus)
+## 📗 Games
+### [Gem Ninja](https://github.com/tambosi-matheus) 
+Is a mobile slash game, focused on getting awesome combos
 
-[Ko-nect](https://github.com/tambosi-matheus) is a sphere visualizer of , focused on getting awesome combos
-<!---
-tambosi-matheus/tambosi-matheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [Dice Heroes](https://github.com/tambosi-matheus/DiceHeroes) 
+Is a connect3 casual game for you chill 
+
+## 📘 Adventure Codes
+Here there are projects that I use to study concepts and further develop my coding skills
+### [Ko-nect](https://github.com/tambosi-matheus)
+Spherical Network visualizer
