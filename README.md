@@ -1,6 +1,6 @@
 
 
-- 👋 Hey there, my name is Matheus Tambosi, I'm a 22 years old Brazilian Game Developer with experience in Unity, C#, C++ and Java
+- 👋 Hey there, my name is Matheus Tambosi, I'm a 22 years old Game Developer with experience in Unity, C#, C++ and Java
 - 🌱 Currently looking for a role as Game Engineer
 - 👀 I'm interested in creating systems and AI
 - 📫 You can contact me on [tambosi.matheus@gmail.com](mailto:tambosi.matheus@gmail.com), feel free to share some feedbacks on my projects!
