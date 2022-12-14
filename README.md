@@ -1,5 +1,13 @@
 
 
+<td width=25%>
+<img src=
+title="My final implementation of the Stigmergy rules, changing background agent and trail colors, while also applying a middle attractor and spawn">
+
+
+
+
+
 - 👋 Hey there, my name is Matheus Tambosi, I'm a 22 years old Game Developer with experience in Unity, C#, C++ and Java
 - 🌱 Currently looking for a role as Game Engineer
 - 👀 I'm interested in creating systems and AI
@@ -12,6 +20,18 @@
 
 <table> 
 <tr>
+<!---Cellular Automaton--->
+<td width=30%>
+  
+### [Cellular Automaton](https://github.com/tambosi-matheus/Cellular-Automaton/)  
+<sub> PC - Unity </sub>
+
+Application of Conway's Game of Life and Stigmergy rules using Compute Shades, multithreading and HLSL
+
+[`Learn More`](https://github.com/tambosi-matheus/Cellular-Automaton/)
+</td>
+<td width=20%><img src="https://github.com/tambosi-matheus/Cellular-Automaton/raw/main/GIFs/StigCell.gif " align="left"></td>
+
 <!---Boids--->
 <td width=30%>
   
@@ -24,6 +44,10 @@ Create a boid simulation with group behaviours, change each flock DNA to create 
 [`Learn More`](https://github.com/tambosi-matheus/Boids-Simulation)
 </td>
 <td width=20%><img src="https://github.com/tambosi-matheus/Boids-Simulation/raw/main/Gameplay%20GIF.gif" align="left"></td>
+
+</tr>
+<tr>
+
 <!---Dice Heroes--->
 <td width=30%>
 
@@ -36,9 +60,7 @@ Is a connect3 casual mobile experience. Place dices and create awesome combos
 [`Learn More`](https://github.com/tambosi-matheus/DiceHeroes)
 </td>
 <td width=20%><img src="https://github.com/tambosi-matheus/DiceHeroes/raw/main/Gameplay%20Dice.gif" align="left"></td>
-</tr> 
-  
-<tr>
+ 
 <!---Gem Ninja--->
 <td width=30%>
 
@@ -53,6 +75,10 @@ Is a slash game, cut your way into countless gems while you try to get the highe
 </td>
 
 <td><img src="https://github.com/tambosi-matheus/GemNinja/raw/main/Gameplay%20Gem.gif" align="right"></td>
+
+</tr>
+<tr>
+
 <!---Ko-nect--->
 <td width=30%>
 
@@ -67,5 +93,7 @@ A Spherical Network visualizer, with constant spawn of dots with different sizes
 </td>
   
 <td><img src="https://github.com/tambosi-matheus/Ko-nect/raw/main/Gameplay%20Ko-nect.gif" align="right"></td>
+
 </tr>
 </table>
+
