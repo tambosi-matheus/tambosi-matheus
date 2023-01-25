@@ -6,10 +6,21 @@
 - 🌟 While you are here, [check out one of my favorite projects](https://github.com/tambosi-matheus/Boids-Simulation)
 
 # 📚 My projects 📕
-
-
 <table> 
 <tr>
+
+<!--Batman Free Flow-->
+<td width=30%>
+
+### [Batman Free Flow](https://github.com/tambosi-matheus/Batman-Free-Flow/)
+<sub> PC - Unity </sub>
+
+A simulation of the Free Flow combat system from Batman Arkham series
+
+[`Learn More`](https://github.com/tambosi-matheus/Batman-Free-Flow/)
+</td>
+<td width=20%><img src="https://github.com/tambosi-matheus/Batman-Free-Flow/raw/main/GameplayGIF.gif " align="left"></td>
+
 <!---Cellular Automaton--->
 <td width=30%>
   
@@ -21,6 +32,9 @@ Application of Conway's Game of Life and Stigmergy rules using Compute Shades, m
 [`Learn More`](https://github.com/tambosi-matheus/Cellular-Automaton/)
 </td>
 <td width=20%><img src="https://github.com/tambosi-matheus/Cellular-Automaton/raw/main/GIFs/StigCell.gif " align="left"></td>
+
+</tr>
+<tr>
 
 <!---Boids--->
 <td width=30%>
@@ -35,9 +49,6 @@ Create a boid simulation with group behaviours, change each flock DNA to create 
 </td>
 <td width=20%><img src="https://github.com/tambosi-matheus/Boids-Simulation/raw/main/Gameplay%20GIF.gif" align="left"></td>
 
-</tr>
-<tr>
-
 <!---Dice Heroes--->
 <td width=30%>
 
@@ -50,6 +61,9 @@ Is a connect3 casual mobile experience. Place dices and create awesome combos
 [`Learn More`](https://github.com/tambosi-matheus/DiceHeroes)
 </td>
 <td width=20%><img src="https://github.com/tambosi-matheus/DiceHeroes/raw/main/Gameplay%20Dice.gif" align="left"></td>
+ 
+ </tr>
+<tr>
  
 <!---Gem Ninja--->
 <td width=30%>
@@ -65,9 +79,6 @@ Is a slash game, cut your way into countless gems while you try to get the highe
 </td>
 
 <td><img src="https://github.com/tambosi-matheus/GemNinja/raw/main/Gameplay%20Gem.gif" align="right"></td>
-
-</tr>
-<tr>
 
 <!---Ko-nect--->
 <td width=30%>
