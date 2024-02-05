@@ -1,9 +1,6 @@
-- 👋 Hey there, my name is Matheus Tambosi, I'm a 22 years old Game Developer with experience in Unity, C#, C++ and Java
-- 🌱 Currently looking for a role as Game Engineer
-- 👀 I'm interested in creating systems and AI
+- 👋 Hey there, my name is Matheus Tambosi, I'm a 23 years old programmer
 - 📫 You can contact me on [tambosi.matheus@gmail.com](mailto:tambosi.matheus@gmail.com), feel free to share some feedbacks on my projects!
 - ⚡ Fun fact: I'm a seasonal surfer and skater, and also a Boston Celtic fan 🍀
-- 🌟 While you are here, [check out one of my favorite projects](https://github.com/tambosi-matheus/Boids-Simulation)
 
 # 📚 My projects 📕
 <table> 
